@@ -8,6 +8,7 @@ find_package(catkin REQUIRED COMPONENTS
   roslint
   vector_map
   vector_map_msgs
+  mobileye_560_660_msgs
 )
 
 find_package(Eigen3 QUIET)

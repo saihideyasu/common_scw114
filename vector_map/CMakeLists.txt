@@ -9,6 +9,7 @@ find_package(catkin REQUIRED COMPONENTS
   roslint
   vector_map_msgs
   visualization_msgs
+  mobileye_560_660_msgs
 )
 
 set(CMAKE_CXX_FLAGS "-O2 -Wall ${CMAKE_CXX_FLAGS}")
